@@ -27,7 +27,7 @@ enum34==1.1.6
 Fabric==1.14.0
 geeknote==0.2a0
 greenlet==0.4.13
-Guake==3.2.1
+Guake==3.8.5
 html2text==2017.10.4
 idna==2.6
 invoke==1.0.0
