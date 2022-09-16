@@ -42,7 +42,7 @@ kazam==1.4.5
 lazy-object-proxy==1.2.2
 lensfun==0.3.2
 louis==3.5.0
-Mako==1.0.7
+Mako==1.2.2
 Markdown==2.6.11
 markdown2==2.3.5
 MarkupSafe==1.0
